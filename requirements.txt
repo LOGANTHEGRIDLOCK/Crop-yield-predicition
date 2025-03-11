@@ -44,7 +44,7 @@ defer==1.0.6
 defusedxml==0.7.1
 distlib==0.3.9
 distro==1.9.0
-distro-info==1.7
+distro-info==1.7+build1
 docutils==0.21.2
 duplicity==2.1.4
 entrypoints==0.4
